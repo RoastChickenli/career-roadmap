@@ -1,0 +1,17 @@
+[
+  {
+    "id":1,
+    "type":"compile",
+    "priority":3
+  },
+  {
+   "id": 2,
+    "type": "test",
+    "priority": 1
+  },
+    {
+        "id": 3,
+        "type": "deploy",
+        "priority": 2
+    }
+]
