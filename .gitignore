@@ -1,0 +1,16 @@
+# CMake构建目录
+**/build/
+
+# 手动生成的可执行文件
+**/main
+
+# Python缓存
+**/__pycache__/
+*.pyc
+
+# Python虚拟环境
+.venv/
+venv/
+
+# GDB历史
+.gdb_history
