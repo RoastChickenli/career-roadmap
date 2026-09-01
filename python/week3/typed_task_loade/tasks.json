@@ -1,0 +1,31 @@
+[
+    {
+        "id": 1,
+        "type": "compile",
+        "priority": 3
+    },
+    {
+        "id": "2",
+        "type": "test",
+        "priority": 4
+    },
+    {
+        "id": 3,
+        "type": "deploy",
+        "priority": 9
+    },
+    {
+        "id": 4,
+        "type": "",
+        "priority": 2
+    },
+    {
+        "id": 5,
+        "type": "download",
+        "priority": 5
+    },
+    {
+        "id": 6,
+        "type": "cleanup"
+    }
+]
